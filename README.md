@@ -137,7 +137,7 @@ runs/detect/predict/
 ### Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/Aditya-0510/helmet_detection>
 cd helmet-detection-yolov8
 ```
 
