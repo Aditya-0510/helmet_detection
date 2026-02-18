@@ -19,6 +19,7 @@ env/
 # ===============================
 runs/
 *.pt
+!weights/best.pt
 *.onnx
 *.engine
 
