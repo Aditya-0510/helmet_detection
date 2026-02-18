@@ -162,16 +162,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🔮 Future Improvements
-
-- Train using YOLOv8s or YOLOv8m for improved accuracy
-- Increase dataset size for better generalization
-- Deploy as REST API
-- Edge deployment (Jetson Nano / Raspberry Pi)
-- Helmet violation counting system
-
----
-
 ## 👨‍💻 Author
 
 Sai Aditya  
